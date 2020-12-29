@@ -1,2 +1,2 @@
 # Dice-Game
-This is a simple interactive site which uses basis JavaScript and Document Object Model(DOM)
+This is a simple interactive site which uses basic JavaScript and Document Object Model(DOM)
